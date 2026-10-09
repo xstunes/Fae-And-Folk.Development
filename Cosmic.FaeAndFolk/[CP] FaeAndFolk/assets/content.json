@@ -1,0 +1,61 @@
+{
+    "Format":"2.0.0",
+    "Changes":
+    [
+        //Characters data
+        {
+            "Action": "EditData",
+            "Target": "Data/Characters",
+            "Entries":
+            {
+                "Thistle":
+                {
+                    "DisplayName": {{i18n:npc.thistle.name}},
+                    "BirthSeason": "Fall",
+                    "BirthDay": 12,
+                    "HomeRegion": "Forest",
+                    "Gender": "Female",
+                    "Age": "Adult",
+                    "Manner":"Neutral",
+                    "SocialAnxiety": "Shy",
+                    "Optimism": "Negative",
+                    "CanBeRomanced": true,
+                    "Calendar": "HiddenAlways"
+
+                }
+            }
+        },
+
+        //Textures load -- sprites and portraits
+        {
+            "Action": "Load",
+            "Target": "Characters/Thistle",
+            "FromFile": "assets/Textures/Characters/Thistle.png"
+        },
+        {
+            "Action": "Load",
+            "Target": "Portraits/Thistle",
+            "FromFile": "assets/Textures/Portraits/Thistle.png"
+        },
+
+        //Schedule and dialogue load
+        {
+            "Action": "Load",
+            "Target": "Characters/Schedules/Thistle",
+            "FromFile": "assets/Content/Characters/Schedules/Thistle.json"
+        },
+        {
+            "Action": "Load",
+            "Target": "Characters/Dialogue/Thistle",
+            "FromFile": "assets/Content/Characters/Dialogue/Thistle.json"
+        },
+
+        //Quests load
+        {
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "FromFile": "assets/Content/Quests/Quests.json"
+        }
+
+    ]
+}

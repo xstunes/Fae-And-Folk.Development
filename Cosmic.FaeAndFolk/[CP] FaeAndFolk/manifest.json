@@ -1,14 +1,13 @@
 {
     "Name": "[CP]Fae and Folk",
-    "Author": "cosmicopal",
-    "Description": "",
-    "Version": "1.0.0",
-    "UniqueID": "cosmicopal.faeandfolk",
-    "Dependencies":
-    [
-        {
-            "UniqueID": "Pathoschild.ContentPatcher",
-            "MinimumVersion": "2.0.1"
-        }
-    ]
+    "Author": "cosmicallyopal",
+    "Description": "Content pack for Fae and Folk.",
+    "Version": "0.1.0-beta",
+    "UniqueID": "cosmicopal.faeandfolk.cp",
+    "MinimumApiVersion": "4.0.0",
+    "UpdateKeys": [],
+    "ContentPackFor":
+    {
+        "UniqueID": "Pathoschild.ContentPatcher"
+    }
 }

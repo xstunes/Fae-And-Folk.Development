@@ -1,0 +1,10 @@
+{
+    "Introduction": "{{i18n:dialogue.thistle.introduction}}",
+    "Mon":"{{i18n:dialogue.thistle.mon}}",
+    "Tue":"{{i18n:dialogue.thistle.tue}}",
+    "Wed":"{{i18n:dialogue.thistle.wed}}",
+    "Thu":"{{i18n:dialogue.thistle.thu}}",
+    "Fri":"{{i18n:dialogue.thistle.fri}}",
+    "Sat":"{{i18n:dialogue.thistle.sat}}",
+    "Sun":"{{i18n:dialogue.thistle.sun}}"
+}

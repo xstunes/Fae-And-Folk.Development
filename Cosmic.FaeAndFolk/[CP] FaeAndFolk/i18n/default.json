@@ -1,0 +1,26 @@
+{
+    //NPC display names
+    "npc.thistle.name": "Thistle",
+
+    //Placeholder dialogue for thistle
+    "dialogue.thistle.introduction": "you know i fart fairies.",
+    "dialogue.thistle.mon": "monday left me broken",
+    "dialogue.thistle.tue": "tuesday left me blue",
+    "dialogue.thistle.wed": "wednesday's gone",
+    "dialogue.thistle.thu": "i fart fairies.",
+    "dialogue.thistle.fri": "friday, i'm in love",
+    "dialogue.thistle.sat": "saturday, wait",
+    "dialogue.thistle.sun": "sunday always comes too late",
+
+    //Quest 1: The Watcher -- Chime (phase 1)
+    "quest.watcher.chime.name": "The Watcher's Test: The Chime",
+    "quest.watcher.chime.description": "You have received a mysterious package containing Witch Bells from 'The Watcher'.",
+
+    // Quest 2: The Watcher - Guidance (Phase 2)
+    "quest.watcher.guidance.name": "The Watcher's Test: The Guidance",
+    "quest.watcher.guidance.description": "Prove your respect for nature by foraging 50 items across the valley.",
+
+    // Quest 3: The Watcher - Awakening (Phase 3)
+    "quest.watcher.awakening.name": "The Watcher's Test: The Awakening",
+    "quest.watcher.awakening.description": "Demonstrate true mastery by foraging 100 items to open your Third Eye."
+}

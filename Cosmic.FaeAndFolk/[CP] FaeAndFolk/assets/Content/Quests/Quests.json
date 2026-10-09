@@ -1,0 +1,5 @@
+{
+    "FaeAndFolk_Watcher_Chime": "Basic/{{i18n:quest.watcher.chime.name}}/{{i18n:quest.watcher.chime.description}}/none/null/-1/0/-1/false",
+    "FaeAndFolk_Watcher_Guidance": "Basic/{{i18n:quest.watcher.guidance.name}}/{{i18n:quest.watcher.guidance.description}}/none/null/-1/0/-1/false",
+    "FaeAndFolk_Watcher_Awakening": "Basic/{{i18n:quest.watcher.awakening.name}}/{{i18n:quest.watcher.awakening.description}}/none/null/-1/0/-1/false"
+}
